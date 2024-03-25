@@ -1,0 +1,469 @@
+TARGET_A;TARGET_B;TYPE;CLEAR_DIRECTION;METHOD_OF_ANALYSIS;INTERLINK_GEO_SCALE;PUBLICATION
+7.3;2.3;synergy;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+17.5;6.6;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+6.2;13.b;synergy;yes;Mixed (Literature review Expert judgement);Africa Asia;Karnib_2019
+14.a;14.1;synergy;yes;Mixed (Literature review Expert judgement);Other;LeBlanc_2017
+6.a;10.b;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+1.1;3.9;synergy;yes;Mixed (Literature review Expert judgement);Africa;Hoeltl_2020
+7.2;8.4;synergy;yes;Mixed (Literature review Expert judgement);not_specified;Blair_2021
+13.2;7.2;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+2.4;8.4;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+13.1;15.5;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+16.5;6.4;synergy;yes;Mixed (Literature review Expert judgement);Asia;Wang_2022
+9.4;13.1;synergy;yes;Expert judgement;Europe;Lyytimaki_2021
+2.3;6.2;trade-off;yes;Mixed (Literature review Expert judgement);Asia;Wang_2022
+9.1;11.6;trade-off;yes;Expert judgement;Asia;UNESCAP_2017
+9.4;6.5;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+9.1;10.7;synergy;yes;Mixed (Expert judgement Data analysis);Africa;Gannon_2022
+14.c;14.6;synergy;yes;Mixed (Literature review Expert judgement);not_specified;OECD_2017
+6.a;2.a;synergy;yes;Expert judgement;Asia;UNESCAP_2017
+7.2;16.7;synergy;yes;Mixed (Literature review Expert judgement);not_specified;Blair_2021
+7.1;8.2;synergy;yes;Literature review;Europe;Breu_2021
+11.3;3.9;synergy;yes;Mixed (Literature review Expert judgement);Africa;Hoeltl_2020
+7.2;13.2;synergy;yes;Literature review;Europe;Breu_2021
+11.3;6.4;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+11.6;15.3;synergy;yes;Literature review;Europe;Breu_2021
+6.3;6.5;synergy;yes;Mixed (Semantic analysis Literature review Expert judgement);Oceania;Bandari_2022
+12.6;6.4;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+13.2;7.3;synergy;yes;Mixed (Semantic analysis Literature review Expert judgement);Europe;Stevenson_2021
+12.4;6.3;trade-off;yes;Expert judgement;World;UNESCAP_2017
+7.2;15.1;trade-off;yes;Mixed (Literature review Expert judgement);Africa;Hoeltl_2020
+8.4;6.3;synergy;yes;Literature review;not_specified;Alcamo_2019
+4.3;9.5;synergy;yes;Mixed (Literature review Expert judgement);not_specified;Nilsson_2017
+14.7;6.3;synergy;yes;Mixed (Literature review Expert judgement);Other;Singh_2018
+11.1;6.6;trade-off;yes;Mixed (Literature review Expert judgement);Asia;Wang_2022
+3.2;8.6;synergy;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+11.3;1.a;trade-off;yes;Literature review;Europe;Breu_2021
+8.1;6.1;trade-off;yes;Expert judgement;Asia;UNESCAP_2017
+16.6;2.4;synergy;yes;Expert judgement;Europe;Lyytimaki_2021
+6.a;7.2;synergy;yes;Expert judgement;Oceania;UNESCAP_2017
+6.1;7.2;trade-off;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+11.7;6.3;synergy;yes;Expert judgement;World;UNESCAP_2016
+1.1;5.1;synergy;yes;Literature review;Europe;Breu_2021
+7.2;8.3;synergy;yes;Mixed (Literature review Expert judgement);Europe;ICSU_2017
+12.3;6.3;synergy;yes;Literature review;not_specified;Alcamo_2019
+11.1;9.4;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+14.4;2.2;synergy;yes;Mixed (Literature review Expert judgement);World;Singh_2018
+13.3;3.4;trade-off;yes;Mixed (Semantic analysis Literature review Expert judgement);Europe;Stevenson_2021
+12.1;6.3;synergy;yes;Mixed (Literature review Expert judgement);Asia;Wang_2022
+13.2;7.1;trade-off;yes;Mixed (Semantic analysis Literature review Expert judgement);Europe;Stevenson_2021
+15.8;15.2;synergy;yes;Mixed (Semantic analysis Literature review Expert judgement);Oceania;Bandari_2022
+12.2;7.2;synergy;yes;Literature review;Europe;Breu_2021
+6.a;11.b;synergy;yes;Expert judgement;World;UNESCAP_2016
+9.a;11.1;synergy;yes;Mixed (Literature review Data analysis);World;Mantlana_2019
+2.3;1.5;trade-off;yes;Data analysis;Asia;Latif_2022
+6.2;2.3;trade-off;yes;Mixed (Literature review Expert judgement Modelling);World;Milan_2017
+14.4;13.1;synergy;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+2.4;13.1;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+15.a;6.6;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+11.4;14.2;synergy;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+8.5;5.4;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+11.1;10.7;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+11.2;13.2;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+10.7;1.5;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+2.3;2.4;trade-off;yes;Literature review;Europe;Breu_2021
+2.a;8.1;synergy;yes;Mixed (Semantic analysis Literature review Expert judgement);Oceania;Bandari_2022
+1.2;2.1;synergy;yes;Literature review;Europe;Breu_2021
+17.16;17.14;synergy;yes;Expert judgement;World;UNESCAP_2017
+7.2;11.c;synergy;yes;Mixed (Literature review Expert judgement);not_specified;Blair_2021
+14.5;14.a;synergy;yes;Mixed (Literature review Expert judgement);not_specified;OECD_2017
+9.a;9.4;synergy;yes;Expert judgement;Asia;UNESCAP_2017
+7.2;8.2;synergy;yes;Literature review;Europe;Breu_2021
+6.3;3.3;synergy;yes;Mixed (Literature review Expert judgement);Oceania;Hall_2020
+11.b;11.3;synergy;yes;Mixed (Literature review Expert judgement);Africa;Hoeltl_2020
+16.5;6.a;synergy;yes;Expert judgement;World;UNESCAP_2016
+13.2;3.9;synergy;yes;Literature review;Europe;Breu_2021
+7.2;2.4;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+12.b;12.1;synergy;yes;Expert judgement;not_specified;Coopman_2016
+7.2;14.2;trade-off;yes;Mixed (Literature review Expert judgement);Asia;Wang_2022
+12.a;6.4;synergy;yes;Expert judgement;World;UNESCAP_2016
+4.7;6.3;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+4.4;3.8;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+8.4;2.3;synergy;yes;Literature review;Asia;Pingali_2022
+9.c;7.1;synergy;yes;Mixed (Literature review Data analysis);World;Mantlana_2019
+4.4;11.2;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+2.4;6.4;synergy;yes;Mixed (Literature review Expert judgement);Asia;Wang_2022
+3.a;4.1;synergy;yes;Literature review;World;IAEG-SDGs_2020
+7.2;1.2;synergy;yes;Mixed (Literature review Expert judgement);not_specified;Blair_2021
+8.5;14.7;synergy;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+9.c;11.1;synergy;yes;Mixed (Literature review Data analysis);World;Mantlana_2019
+8.4;15.2;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+11.1;13.1;synergy;yes;Data analysis;Asia;Latif_2022
+11.5;11.2;synergy;yes;Data analysis;Asia;Latif_2022
+6.b;6.5;synergy;yes;Mixed (Semantic analysis Literature review Expert judgement);Oceania;Bandari_2022
+4.a;6.1;synergy;yes;Expert judgement;Asia;UNESCAP_2017
+11.1;6.2;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+9.2;7.b;synergy;yes;Mixed (Literature review Data analysis);World;Mantlana_2019
+1.b;5.5;synergy;yes;Expert judgement;Asia;UNESCAP_2017
+16.6;1.5;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+9.b;11.b;synergy;yes;Mixed (Literature review Data analysis);World;Mantlana_2019
+7.2;13.a;synergy;yes;Mixed (Literature review Expert judgement);not_specified;Blair_2021
+15.2;2.4;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+6.3;8.2;synergy;yes;Expert judgement;Asia;UNESCAP_2017
+7.1;3.4;synergy;yes;Mixed (Literature review Expert judgement);Other;Nilsson_2017
+7.2;9.5;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+14.4;3.8;synergy;yes;Mixed (Literature review Expert judgement);Other;Singh_2018
+12.2;6.6;synergy;yes;Expert judgement;World;UNESCAP_2016
+6.b;6.1;synergy;yes;Expert judgement;World;UNESCAP_2016
+6.b;13.1;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+6.6;13.2;synergy;yes;Mixed (Literature review Expert judgement);Africa Asia;Karnib_2019
+8.4;12.2;synergy;yes;Expert judgement;World;UNESCAP_2017
+6.4;15.5;synergy;yes;Mixed (Semantic analysis Literature review Expert judgement);Oceania;Bandari_2022
+7.2;15.1;trade-off;yes;Mixed (Literature review Expert judgement);not_specified;Blair_2021
+10.1;14.c;synergy;yes;Mixed (Literature review Expert judgement);Asia;Wang_2022
+9.c;9.3;synergy;yes;Expert judgement;Asia;UNESCAP_2017
+7.2;10.b;synergy;yes;Mixed (Literature review Expert judgement);not_specified;Blair_2021
+11.3;15.3;synergy;yes;Literature review;Europe;Breu_2021
+2.4;6.5;synergy;yes;Mixed (Semantic analysis Literature review Expert judgement);Oceania;Bandari_2022
+9.4;15.8;trade-off;yes;Mixed (Literature review Data analysis);World;Mantlana_2019
+6.5;14.1;synergy;yes;Mixed (Literature review Expert judgement);Asia;Wang_2022
+14.6;15.8;synergy;yes;Mixed (Literature review Expert judgement);Other;Singh_2018
+7.1;13.1;trade-off;yes;Mixed (Literature review Expert judgement);Africa;Hoeltl_2020
+9.5;2.a;synergy;yes;Mixed (Literature review Data analysis);World;Mantlana_2019
+3.2;8.1;synergy;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+2.3;7.2;synergy;yes;not_specified;not_specified;Karnib_2017
+7.2;11.a;synergy;yes;Mixed (Literature review Expert judgement);not_specified;Blair_2021
+9.4;6.4;synergy;yes;Mixed (Literature review Expert judgement);Asia;Wang_2022
+13.2;9.5;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+3.8;3.7;synergy;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+6.a;15.1;synergy;yes;Expert judgement;World;UNESCAP_2016
+14.6;15.7;synergy;yes;Mixed (Literature review Expert judgement);World;Singh_2018
+9.4;12.3;synergy;yes;Expert judgement;Europe;Lyytimaki_2021
+11.6;12.5;trade-off;yes;Expert judgement;World;UNESCAP_2017
+6.6;8.1;trade-off;yes;Expert judgement;Europe;Lyytimaki_2021
+12.8;13.3;synergy;yes;Literature review;Europe;Breu_2021
+7.2;15.5;trade-off;yes;Mixed (Literature review Expert judgement);not_specified;Blair_2021
+1.a;2.4;synergy;yes;Literature review;Europe;Breu_2021
+2.a;13.2;synergy;yes;Mixed (Semantic analysis Literature review Expert judgement);Oceania;Bandari_2022
+6.6;13.b;synergy;yes;Mixed (Literature review Expert judgement);Africa Asia;Karnib_2019
+17.16;6.4;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+14.c;14.4;synergy;yes;Mixed (Literature review Expert judgement);not_specified;OECD_2017
+15.3;7.2;synergy;yes;Literature review;Europe;Breu_2021
+16.4;11.1;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+9.b;11.5;synergy;yes;Mixed (Literature review Data analysis);World;Mantlana_2019
+2.3;6.6;synergy;yes;Expert judgement;World;UNESCAP_2016
+6.6;6.1;synergy;yes;Expert judgement;World;UNESCAP_2016
+15.5;9.4;synergy;yes;Expert judgement;Europe;Lyytimaki_2021
+6.3;11.4;synergy;yes;Expert judgement;World;UNESCAP_2016
+7.2;6.4;trade-off;yes;Expert judgement;World;UNESCAP_2016
+12.3;6.6;synergy;yes;Expert judgement;Europe;Lyytimaki_2021
+13.1;14.2;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2019
+5.5;2.3;synergy;yes;Mixed (Literature review Expert judgement);Other;Nilsson_2017
+11.a;6.6;synergy;yes;Expert judgement;World;UNESCAP_2016
+1.5;16.6;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+6.1;6.3;trade-off;yes;Mixed (Literature review Expert judgement Modelling);World;Milan_2017
+17.1;9.c;synergy;yes;Expert judgement;Asia;UNESCAP_2017
+6.4;8.1;synergy;yes;Expert judgement;Asia;UNESCAP_2017
+12.1;8.2;synergy;yes;Expert judgement;Asia;UNESCAP_2017
+9.1;8.3;synergy;yes;Mixed (Expert judgement Data analysis);Africa;Gannon_2022
+13.2;6.4;synergy;yes;Expert judgement;World;UNESCAP_2016
+14.1;12.4;synergy;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+16.7;6.b;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+6.3;13.2;synergy;yes;Mixed (Literature review Expert judgement);Africa Asia;Karnib_2019
+12.5;14.1;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+17.17;6.b;synergy;yes;Expert judgement;World;UNESCAP_2016
+9.1;11.2;synergy;yes;Mixed (Literature review Data analysis);World;Mantlana_2019
+14.3;1.5;synergy;yes;Mixed (Literature review Expert judgement);World;Singh_2018
+3.3;3.1;synergy;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+6.b;6.5;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+14.4;8.2;synergy;yes;Mixed (Literature review Expert judgement);World;Singh_2018
+6.3;3.3;synergy;yes;Expert judgement;Asia;UNESCAP_2017
+17.17;6.1;synergy;yes;Expert judgement;World;UNESCAP_2016
+12.1;2.2;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+6.2;7.1;trade-off;yes;Mixed (Literature review Expert judgement Modelling);World;Milan_2017
+1.3;4.1;synergy;yes;Expert judgement;World;UNESCAP_2017
+15.9;6.6;synergy;yes;Expert judgement;World;UNESCAP_2016
+6.5;6.4;synergy;yes;Expert judgement;Asia;UNESCAP_2017
+14.7;6.3;synergy;yes;Literature review;not_specified;Alcamo_2019
+12.2;12.3;synergy;yes;Expert judgement;not_specified;Coopman_2016
+9.5;6.1;synergy;yes;Mixed (Literature review Data analysis);World;Mantlana_2019
+2.2;3.4;synergy;yes;Mixed (Literature review Expert judgement);World;Nilsson_2017
+5.c;6.b;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+15.1;6.1;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+11.6;6.6;synergy;yes;Expert judgement;World;UNESCAP_2016
+17.14;6.b;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+7.2;9.4;synergy;yes;Expert judgement;Oceania;UNESCAP_2017
+9.c;6.b;synergy;yes;Expert judgement;World;UNESCAP_2016
+6.2;2.2;synergy;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+6.4;1.5;synergy;yes;Expert judgement;World;UNESCAP_2016
+14.1;11.6;synergy;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+2.2;1.5;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+12.1;12.7;synergy;yes;Expert judgement;not_specified;Coopman_2016
+4.7;12.3;synergy;yes;Literature review;Europe;Breu_2021
+16.6;6.6;synergy;yes;Mixed (Literature review Expert judgement);Asia;Wang_2022
+1.a;15.3;synergy;yes;Literature review;Europe;Breu_2021
+9.b;7.3;synergy;yes;Mixed (Literature review Data analysis);World;Mantlana_2019
+1.4;9.1;synergy;yes;Mixed (Literature review Expert judgement);Other;Nilsson_2017
+13.b;2.3;synergy;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+12.2;15.1;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2019
+12.3;15.4;synergy;yes;Literature review;Europe;Breu_2021
+6.6;13.1;synergy;yes;Expert judgement;Europe;Lyytimaki_2021
+17.11;2.4;trade-off;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+6.5;12.1;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+15.3;2.1;synergy;yes;Literature review;Europe;Breu_2021
+15.3;11.3;synergy;yes;Literature review;Europe;Breu_2021
+8.4;6.1;synergy;yes;Mixed (Literature review Expert judgement);Asia;Wang_2022
+2.3;6.6;trade-off;yes;Literature review;Asia;Pingali_2022
+12.3;1.2;synergy;yes;Expert judgement;Europe;Lyytimaki_2021
+15.1;15.5;synergy;yes;Mixed (Literature review Expert judgement);Africa;Hoeltl_2020
+14.1;2.3;trade-off;yes;Mixed (Literature review Expert judgement);Asia;Wang_2022
+14.5;10.2;trade-off;yes;Mixed (Literature review Expert judgement);Other;Singh_2018
+6.3;6.6;synergy;yes;Expert judgement;Asia;UNESCAP_2017
+9.1;11.a;synergy;yes;Mixed (Literature review Data analysis);World;Mantlana_2019
+6.2;12.5;synergy;yes;Expert judgement;Asia;UNESCAP_2017
+15.4;2.1;synergy;yes;Literature review;Europe;Breu_2021
+9.5;15.8;synergy;yes;Mixed (Literature review Data analysis);World;Mantlana_2019
+13.2;11.4;synergy;yes;Mixed (Semantic analysis Literature review Expert judgement);Europe;Stevenson_2021
+11.2;9.1;synergy;yes;Mixed (Expert judgement Data analysis);Africa;Gannon_2022
+9.1;1.1;trade-off;yes;Mixed (Expert judgement Data analysis);Africa;Gannon_2022
+7.2;12.8;synergy;yes;Mixed (Literature review Expert judgement);not_specified;Blair_2021
+11.7;13.1;synergy;yes;Mixed (Literature review Expert judgement);Africa;Hoeltl_2020
+13.2;9.a;synergy;yes;Expert judgement;Oceania;UNESCAP_2017
+14.a;13.b;synergy;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+9.4;7.a;synergy;yes;Mixed (Literature review Data analysis);World;Mantlana_2019
+9.a;11.6;synergy;yes;Mixed (Literature review Data analysis);World;Mantlana_2019
+4.4;3.4;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+6.3;11.6;trade-off;yes;Expert judgement;Asia;UNESCAP_2017
+9.5;14.1;synergy;yes;Mixed (Literature review Expert judgement);Asia;Wang_2022
+7.1;1.3;synergy;yes;Mixed (Literature review Expert judgement Data analysis);Africa;Mainali_2018
+6.1;6.2;synergy;yes;not_specified;not_specified;Karnib_2017
+8.5;9.5;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+14.2;6.6;synergy;yes;Expert judgement;Asia;UNESCAP_2017
+1.2;8.1;synergy;yes;Expert judgement;Europe;Lyytimaki_2021
+7.3;14.3;synergy;yes;Mixed (Literature review Expert judgement);Asia;Wang_2022
+14.5;2.1;synergy;yes;Mixed (Literature review Expert judgement);Other;Singh_2018
+1.1;9.3;synergy;yes;Mixed (Expert judgement Data analysis);Africa;Gannon_2022
+1.4;16.7;synergy;yes;Expert judgement;Asia;UNESCAP_2017
+4.7;6.2;synergy;yes;Mixed (Literature review Expert judgement);Asia;Wang_2022
+9.a;11.4;synergy;yes;Mixed (Literature review Data analysis);World;Mantlana_2019
+11.3;6.b;synergy;yes;Expert judgement;World;UNESCAP_2016
+5.5;16.6;synergy;yes;Mixed (Literature review Expert judgement);World;Nilsson_2017
+8.1;6.a;synergy;yes;Mixed (Literature review Expert judgement);Asia;Wang_2022
+11.1;6.3;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+17.16;6.a;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+11.c;11.7;synergy;yes;Mixed (Literature review Expert judgement);Africa;Hoeltl_2020
+14.5;1.5;synergy;yes;Mixed (Literature review Expert judgement);World;Singh_2018
+9.a;11.5;synergy;yes;Mixed (Literature review Data analysis);World;Mantlana_2019
+13.2;3.9;trade-off;yes;Mixed (Semantic analysis Literature review Expert judgement);Europe;Stevenson_2021
+6.a;13.2;synergy;yes;Expert judgement;World;UNESCAP_2016
+16.6;6.4;synergy;yes;Mixed (Literature review Expert judgement);Asia;Wang_2022
+5.1;8.2;synergy;yes;Literature review;Europe;Breu_2021
+3.c;3.5;synergy;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+11.a;6.6;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+7.2;12.4;synergy;yes;Mixed (Literature review Expert judgement);not_specified;Blair_2021
+6.5;14.1;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+12.4;6.3;synergy;yes;Literature review;not_specified;Alcamo_2019
+6.6;15.3;synergy;yes;Mixed (Semantic analysis Literature review Expert judgement);Oceania;Bandari_2022
+1.3;3.8;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+6.6;14.2;synergy;yes;Expert judgement;Asia;UNESCAP_2017
+17.2;6.2;synergy;yes;Expert judgement;World;UNESCAP_2016
+12.2;17.16;synergy;yes;Expert judgement;Oceania;UNESCAP_2017
+14.2;14.1;synergy;yes;Mixed (Literature review Expert judgement);Other;Singh_2018
+9.2;15.1;trade-off;yes;Mixed (Literature review Expert judgement);not_specified;Nilsson_2017
+7.3;7.1;synergy;yes;not_specified;not_specified;Karnib_2017
+7.3;9.5;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+13.1;6.6;synergy;yes;Data analysis;Asia;Latif_2022
+14.4;14.7;synergy;yes;Mixed (Literature review Expert judgement);Other;LeBlanc_2017
+3.7;3.3;synergy;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+2.3;7.2;trade-off;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+12.3;2.3;synergy;yes;Literature review;Asia;Pingali_2022
+9.1;11.c;synergy;yes;Mixed (Literature review Data analysis);World;Mantlana_2019
+17.14;12.1;synergy;yes;Expert judgement;World;UNESCAP_2017
+3.b;3.4;synergy;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+9.b;15.2;synergy;yes;Mixed (Literature review Data analysis);World;Mantlana_2019
+9.1;11.5;synergy;yes;Mixed (Literature review Data analysis);World;Mantlana_2019
+7.2;15.3;synergy;yes;Mixed (Literature review Expert judgement);not_specified;Blair_2021
+14.7;8.6;synergy;yes;Mixed (Literature review Expert judgement);Other;Singh_2018
+8.2;12.6;synergy;yes;Expert judgement;Asia;UNESCAP_2017
+16.6;12.3;synergy;yes;Expert judgement;Europe;Lyytimaki_2021
+6.3;12.2;synergy;yes;Mixed (Literature review Expert judgement);Asia;Wang_2022
+7.3;11.3;synergy;yes;Expert judgement;Oceania;UNESCAP_2017
+12.8;2.4;synergy;yes;Literature review;Europe;Breu_2021
+13.1;3.d;trade-off;yes;Mixed (Semantic analysis Literature review Expert judgement);Europe;Stevenson_2021
+14.3;16.1;synergy;yes;Mixed (Literature review Expert judgement);Other;Singh_2018
+14.2;12.2;synergy;yes;Mixed (Literature review Expert judgement);World;Singh_2018
+14.4;15.6;synergy;yes;Mixed (Literature review Expert judgement);World;Singh_2018
+6.2;2.1;synergy;yes;Mixed (Literature review Expert judgement Data analysis);Other;Mainali_2018
+8.2;6.3;synergy;yes;Expert judgement;World;UNESCAP_2016
+5.1;3.1;synergy;yes;Mixed (Literature review Expert judgement);World;Nilsson_2017
+12.5;7.2;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+10.1;14.6;synergy;yes;Mixed (Literature review Expert judgement);Asia;Wang_2022
+7.1;6.4;trade-off;yes;Expert judgement;Asia;UNESCAP_2016
+17.14;6.6;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+15.5;6.5;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+12.5;6.5;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+14.5;14.b;synergy;yes;Mixed (Literature review Expert judgement);not_specified;LeBlanc_2017
+9.c;9.3;synergy;yes;Expert judgement;Asia;UNESCAP_2017
+2.3;7.3;synergy;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+6.4;6.1;synergy;yes;Expert judgement;World;UNESCAP_2016
+5.5;3.2;synergy;yes;Data analysis;World;Anderson_2022
+14.7;2.4;synergy;yes;Mixed (Literature review Expert judgement);World;Singh_2018
+17.5;6.3;synergy;yes;Expert judgement;World;UNESCAP_2016
+2.3;3.1;trade-off;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+12.4;6.3;synergy;yes;Expert judgement;Asia;UNESCAP_2017
+9.3;5.5;synergy;yes;Mixed (Literature review Expert judgement);World;Nilsson_2017
+15.3;2.3;synergy;yes;Literature review;Asia;Pingali_2022
+14.1;1.2;synergy;yes;Mixed (Literature review Expert judgement);Other;Singh_2018
+6.4;2.c;synergy;yes;Mixed (Semantic analysis Literature review Expert judgement);Oceania;Bandari_2022
+11.3;6.4;synergy;yes;Expert judgement;World;UNESCAP_2016
+17.16;6.5;synergy;yes;Expert judgement;World;UNESCAP_2016
+15.2;6.1;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+14.2;13.1;synergy;yes;Mixed (Literature review Expert judgement);World;Singh_2018
+14.2;11.1;trade-off;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+8.4;9.5;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+13.1;14.3;trade-off;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+7.2;3.9;synergy;yes;Mixed (Literature review Expert judgement);Asia;ICSU_2017
+3.a;2.2;synergy;yes;Literature review;World;IAEG-SDGs_2020
+11.3;14.2;synergy;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+15.5;12.4;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2019
+14.2;12.2;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2019
+10.1;3.8;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+2.3;8.8;trade-off;yes;Mixed (Semantic analysis Literature review Expert judgement);Oceania;Bandari_2022
+11.6;7.2;synergy;yes;Expert judgement;Europe;Lyytimaki_2021
+3.9;8.1;synergy;yes;Expert judgement;World;UNESCAP_2017
+6.a;6.2;trade-off;yes;Data analysis;Asia;Latif_2022
+17.14;13.2;synergy;yes;Literature review;Europe;Breu_2021
+15.3;6.1;synergy;yes;Literature review;Europe;Breu_2021
+15.1;15.5;synergy;yes;Mixed (Semantic analysis Literature review Expert judgement);Oceania;Bandari_2022
+6.1;2.1;synergy;yes;Expert judgement;World;UNESCAP_2017
+6.a;8.4;synergy;yes;Expert judgement;World;UNESCAP_2016
+6.3;13.b;synergy;yes;Mixed (Literature review Expert judgement);Africa Asia;Karnib_2019
+13.2;13.1;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2019
+6.5;8.4;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+16.b;6.b;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+16.3;6.2;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+7.1;6.a;synergy;yes;Expert judgement;World;UNESCAP_2016
+11.3;14.1;synergy;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+12.8;12.a;synergy;yes;Expert judgement;not_specified;Coopman_2016
+6.b;12.b;synergy;yes;Expert judgement;World;UNESCAP_2016
+8.5;14.4;synergy;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+12.2;14.4;synergy;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+14.2;6.6;synergy;yes;Expert judgement;Asia;UNESCAP_2017
+4.1;10.1;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+8.1;16.6;synergy;yes;Expert judgement;Europe;Lyytimaki_2021
+15.4;6.1;synergy;yes;Literature review;Europe;Breu_2021
+1.b;6.b;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+2.4;6.6;synergy;yes;Data analysis;Asia;Singha_2021
+14.1;2.4;synergy;yes;Expert judgement;Europe;Lyytimaki_2021
+8.4;6.6;synergy;yes;Mixed (Literature review Expert judgement);Asia;Wang_2022
+14.5;13.b;synergy;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+16.5;6.3;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+12.8;11.6;synergy;yes;Literature review;Europe;Breu_2021
+15.5;12.2;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2019
+14.4;12.1;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+6.a;6.1;synergy;yes;Expert judgement;World;UNESCAP_2016
+12.a;6.1;synergy;yes;Mixed (Literature review Expert judgement);Asia;Wang_2022
+9.1;6.b;synergy;yes;Mixed (Literature review Data analysis);World;Mantlana_2019
+6.a;8.3;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+6.5;6.b;synergy;yes;Expert judgement;Asia;UNESCAP_2017
+2.4;14.4;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+12.4;3.3;synergy;yes;Literature review;Asia;Bangert_2017
+2.4;1.1;synergy;yes;Mixed (Literature review Expert judgement);Africa;ICSU_2017
+15.1;15.5;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2019
+1.5;13.2;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+12.3;7.3;synergy;yes;Literature review;Europe;Breu_2021
+11.6;6.6;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+5.1;10.1;synergy;yes;Mixed (Literature review Expert judgement);World;Nilsson_2017
+9.5;7.1;synergy;yes;Mixed (Literature review Data analysis);World;Mantlana_2019
+2.3;3.3;synergy;yes;Mixed (Literature review Data analysis);Africa;Rulisa_2022
+6.b;15.1;synergy;yes;Mixed (Semantic analysis Literature review Expert judgement);Oceania;Bandari_2022
+6.b;12.2;synergy;yes;Expert judgement;Oceania;UNESCAP_2017
+7.2;6.3;synergy;yes;Mixed (Literature review Expert judgement Data analysis);Other;Mainali_2018
+12.1;5.4;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+13.b;6.1;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+10.b;9.1;synergy;yes;Mixed (Expert judgement Data analysis);Africa;Gannon_2022
+14.4;12.2;synergy;yes;Mixed (Literature review Expert judgement);Asia;Wang_2022
+17.1;9.a;synergy;yes;Expert judgement;Asia;UNESCAP_2017
+7.3;13.2;synergy;yes;Literature review;Europe;Breu_2021
+13.2;14.3;synergy;yes;Mixed (Literature review Expert judgement);World;Nilsson_2017
+14.7;15.5;synergy;yes;Mixed (Literature review Expert judgement);Other;Singh_2018
+2.3;15.2;trade-off;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+14.6;14.4;trade-off;yes;Mixed (Literature review Expert judgement);not_specified;LeBlanc_2017
+2.3;8.1;synergy;yes;Mixed (Expert judgement Data analysis);Africa;Gannon_2022
+13.2;6.3;synergy;yes;Mixed (Literature review Expert judgement);Asia;Wang_2022
+13.1;6.2;synergy;yes;Data analysis;Asia;Latif_2022
+5.c;6.b;synergy;yes;Expert judgement;World;UNESCAP_2016
+4.7;14.2;synergy;yes;Mixed (Literature review Expert judgement);Asia;Wang_2022
+14.c;14.1;synergy;yes;Mixed (Literature review Expert judgement);not_specified;LeBlanc_2017
+17.14;13.1;synergy;yes;Literature review;Europe;Breu_2021
+7.1;6.4;trade-off;yes;Expert judgement;World;UNESCAP_2016
+9.2;6.b;synergy;yes;Mixed (Literature review Data analysis);World;Mantlana_2019
+9.1;11.2;synergy;yes;Mixed (Expert judgement Data analysis);Africa;Gannon_2022
+16.6;6.5;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+15.4;6.6;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+7.2;15.5;trade-off;yes;Mixed (Literature review Expert judgement);Africa;Hoeltl_2020
+9.b;15.6;synergy;yes;Mixed (Literature review Data analysis);World;Mantlana_2019
+13.3;8.4;synergy;yes;Literature review;Europe;Breu_2021
+3.6;8.5;synergy;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+8.5;3.2;synergy;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+7.2;7.3;synergy;yes;Mixed (Literature review Expert judgement Modelling);Europe;Bennich_2021
+15.1;6.1;synergy;yes;Expert judgement;World;UNESCAP_2016
+6.5;1.5;synergy;yes;Mixed (Literature review Expert judgement);Asia;Wang_2022
+3.8;8.1;synergy;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+12.6;1.2;synergy;yes;Literature review;Europe;Breu_2021
+6.1;2.1;trade-off;yes;Mixed (Literature review Expert judgement Modelling);World;Milan_2017
+14.5;14.2;synergy;yes;Mixed (Literature review Expert judgement);not_specified;OECD_2017
+2.5;13.1;synergy;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+8.2;2.4;synergy;yes;Expert judgement;Asia;UNESCAP_2017
+7.2;14.3;synergy;yes;Mixed (Literature review Expert judgement);Asia;Wang_2022
+5.5;3.8;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+14.4;11.4;synergy;yes;Mixed (Literature review Expert judgement);World;Singh_2018
+9.2;15.c;trade-off;yes;Mixed (Literature review Data analysis);World;Mantlana_2019
+2.3;15.2;trade-off;yes;Literature review;Asia;Pingali_2022
+17.14;10.4;synergy;yes;Literature review;Europe;Breu_2021
+8.1;6.3;trade-off;yes;Mixed (Semantic analysis Literature review Expert judgement);Oceania;Bandari_2022
+13.1;7.2;synergy;yes;Expert judgement;Europe;Lyytimaki_2021
+5.a;14.4;synergy;yes;Mixed (Literature review Expert judgement);Asia;Wang_2022
+9.2;8.1;synergy;yes;Mixed (Literature review Expert judgement);World;Nilsson_2017
+6.a;9.5;synergy;yes;Expert judgement;World;UNESCAP_2016
+9.c;17.8;synergy;yes;Expert judgement;World;UNESCAP_2017
+7.a;7.b;synergy;yes;Expert judgement;Oceania;UNESCAP_2017
+6.4;8.4;synergy;yes;Expert judgement;Asia;UNESCAP_2017
+14.4;5.5;synergy;yes;Mixed (Literature review Expert judgement);Other;Singh_2018
+17.2;1.1;synergy;yes;Literature review;Europe;Breu_2021
+17.14;1.b;synergy;yes;Expert judgement;World;UNESCAP_2017
+9.b;15.c;synergy;yes;Mixed (Literature review Data analysis);World;Mantlana_2019
+8.1;10.b;synergy;yes;Expert judgement;Asia;UNESCAP_2017
+11.2;1.1;synergy;yes;Mixed (Expert judgement Data analysis);Africa;Gannon_2022
+11.3;1.4;synergy;yes;Literature review;Europe;Breu_2021
+14.2;11.4;synergy;yes;Mixed (Literature review Expert judgement);World;Singh_2018
+2.2;3.1;synergy;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+11.2;12.1;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+2.1;8.1;synergy;yes;Expert judgement;World;UNESCAP_2017
+6.5;6.6;synergy;yes;Expert judgement;World;UNESCAP_2017
+17.9;6.a;synergy;yes;Expert judgement;Asia;UNESCAP_2017
+7.3;7.1;synergy;yes;Data analysis;Asia;Latif_2022
+11.1;7.1;synergy;yes;Data analysis;Asia;Latif_2022
+6.5;15.1;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+11.3;6.5;synergy;yes;Expert judgement;Asia;UNESCAP_2017
+6.5;13.1;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+2.3;14.1;synergy;yes;Mixed (Literature review Expert judgement);Asia;Wang_2022
+1.2;4.7;synergy;yes;Literature review;Europe;Breu_2021
+7.1;6.4;synergy;yes;Expert judgement;World;UNESCAP_2016
+6.5;6.6;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+11.2;3.8;synergy;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+9.2;6.3;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+14.1;14.2;synergy;yes;Mixed (Literature review Expert judgement);World;Singh_2018
+6.1;13.2;synergy;yes;Expert judgement;Oceania;UNESCAP_2017
+6.a;6.4;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+13.1;6.5;synergy;yes;Mixed (Semantic analysis Literature review Expert judgement);Oceania;Bandari_2022
+3.1;8.1;synergy;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+14.4;5.1;synergy;yes;Mixed (Literature review Expert judgement);Other;Singh_2018
+16.5;6.6;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+13.3;14.2;trade-off;yes;Mixed (Literature review Expert judgement);not_specified;ICSU_2017
+6.2;6.4;synergy;yes;not_specified;not_specified;Karnib_2017
+9.c;6.b;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+13.2;7.2;synergy;yes;Mixed (Semantic analysis Literature review Expert judgement);Europe;Stevenson_2021
+14.1;1.4;synergy;yes;Mixed (Literature review Expert judgement);World;Singh_2018
+12.2;11.3;synergy;yes;Literature review;Europe;Breu_2021
+2.4;4.7;synergy;yes;Literature review;Europe;Breu_2021
+10.1;14.a;synergy;yes;Mixed (Literature review Expert judgement);Asia;Wang_2022
+17.4;6.5;synergy;yes;Expert judgement;Asia;UNESCAP_2016
+1.2;11.6;synergy;yes;Expert judgement;Europe;Lyytimaki_2021
+16.6;6.6;synergy;yes;Expert judgement;Europe;Lyytimaki_2021
+13.2;15.5;synergy;yes;Mixed (Literature review Expert judgement);Europe;Weitz_2018
+11.1;13.1;synergy;yes;Expert judgement;Asia;UNESCAP_2017
+7.a;1.4;synergy;yes;Literature review;Europe;Breu_2021
+14.5;2.3;trade-off;yes;Mixed (Literature review Expert judgement);Other;Nilsson_2017
+4.7;2.4;synergy;yes;Literature review;Europe;Breu_2021
+7.2;2.3;synergy;yes;Literature review;Asia;Pingali_2022
